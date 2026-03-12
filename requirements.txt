@@ -1,0 +1,5 @@
+aiogram==4.1.1
+python-dotenv==1.0.0
+docx2pdf==0.1.8
+pywin32==311
+tqdm==4.67.3
